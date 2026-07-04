@@ -12,6 +12,7 @@ LATEST
 - Fixed double-width alignment issues on DropdownList.
 - Improved TextBox line wrapping to break on word boundaries.
 - Fixed logic for highlighting selected widget controls without focus.
+- Fixed grapheme logic for unicode characters.
 
 1.15.0
 ------
